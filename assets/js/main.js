@@ -36,9 +36,10 @@
 
 					// Images (in the format of 'url': 'alignment').
 						images: {
-							'images/bg01.jpg': 'center',
-							'images/bg02.jpg': 'center',
-							'images/bg03.jpg': 'center'
+							'images/zelda1.png': 'center',
+							'images/zelda2.png': 'center',
+							'images/zelda3.png': 'center',
+                            'images/zelda4.png': 'center'
 						},
 
 					// Delay.
